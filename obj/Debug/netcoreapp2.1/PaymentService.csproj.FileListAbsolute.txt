@@ -1,0 +1,14 @@
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\PaymentService\bin\Debug\netcoreapp2.1\PaymentService.deps.json
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\PaymentService\bin\Debug\netcoreapp2.1\PaymentService.runtimeconfig.json
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\PaymentService\bin\Debug\netcoreapp2.1\PaymentService.runtimeconfig.dev.json
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\PaymentService\bin\Debug\netcoreapp2.1\PaymentService.dll
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\PaymentService\bin\Debug\netcoreapp2.1\PaymentService.pdb
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\PaymentService\obj\Debug\netcoreapp2.1\PaymentService.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\PaymentService\obj\Debug\netcoreapp2.1\PaymentService.csproj.CoreCompileInputs.cache
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\PaymentService\obj\Debug\netcoreapp2.1\PaymentService.RazorAssemblyInfo.cache
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\PaymentService\obj\Debug\netcoreapp2.1\PaymentService.RazorAssemblyInfo.cs
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\PaymentService\obj\Debug\netcoreapp2.1\PaymentService.AssemblyInfoInputs.cache
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\PaymentService\obj\Debug\netcoreapp2.1\PaymentService.AssemblyInfo.cs
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\PaymentService\obj\Debug\netcoreapp2.1\PaymentService.RazorTargetAssemblyInfo.cache
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\PaymentService\obj\Debug\netcoreapp2.1\PaymentService.dll
+C:\Users\Curso\source\repos\Academia_Softtek\OnlineSHop\OnlineStoreTeam2\OnlineStoreTeam2\PaymentService\obj\Debug\netcoreapp2.1\PaymentService.pdb
